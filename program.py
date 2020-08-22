@@ -1,4 +1,6 @@
-import os 
+import os
+s=("name")
+print("hello,"+s)
 p=input('enter your choice : ')
 print("type BROWSER for run browser ")
 print("type MEDIA PLAYER for run media player ")

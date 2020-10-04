@@ -4,6 +4,7 @@ print("type MEDIA PLAYER for run media player ")
 print("type EDITOR for run editor ")
 print("type GAME for play the game ")
 print("type QUIT for quit  ")
+
 while True:
  p=input('enter your choice : ')
  if("browser" in p):

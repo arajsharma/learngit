@@ -93,3 +93,18 @@ int main()
 		k=i-1;
 	}
 }
+*/
+#include<iostream>
+using namespace std;
+int main()
+{
+	int i,j,n=4;
+	for(j=1;j<=n;j++)
+	{
+		for(i=1;i<=j;i++)
+		{
+			cout<<"hello!";
+		}
+		cout<<endl;
+	}
+}
